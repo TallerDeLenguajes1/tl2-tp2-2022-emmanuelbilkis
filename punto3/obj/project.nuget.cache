@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o/ysg2Pb/wipLyRRPsvlX4P82fUmZRm3wjjhsi0bq7nmbZwNUpW0RQHZcCwXcTE3DMOnF6BypNHO0oKcLBjY9A==",
+  "dgSpecHash": "vZ4o4ATzsF2olHWurGQdzMVKunb2Ni/YUz6NKBWx8ruXp4IbxjaFMZcUobsE6UuCMllcjxzehlvpbE9ki0d4Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\putno3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\putno3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emman\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\putno3.csproj": {}
+    "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\putno3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\putno3.csproj": {
+    "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\putno3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\putno3.csproj",
+        "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\putno3.csproj",
         "projectName": "putno3",
-        "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\putno3.csproj",
+        "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\putno3.csproj",
         "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\putno3\\obj\\",
+        "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\Tps-Taller2\\tl2-tp2-2022-emmanuelbilkis\\punto3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

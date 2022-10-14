@@ -3,7 +3,7 @@ namespace Instituto
 {
 class Alumno
 {
-            
+        private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
         private int Id { get; set; }
         private string Nombre { get; set; }
         private string Apellido { get; set; }
@@ -20,11 +20,20 @@ class Alumno
         }
 
         public string getNombre(){
-            
-                return this.Nombre;   
+
+                if (this.Nombre != null)
+                {
+                    return this.Nombre;
+
+                }else
+                {
+                    Logger.Error("No puede retornar null");
+                    throw new NullReferenceException("No puede retornar null");
+                }
+                   
         }
 
-        public string? getApe(){
+        public string getApe(){
             return this.Apellido;
         }
 
