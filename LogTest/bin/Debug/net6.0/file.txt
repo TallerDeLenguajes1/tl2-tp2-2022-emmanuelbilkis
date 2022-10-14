@@ -4,3 +4,6 @@
 2022-10-05 19:34:28.7561|INFO|Program|Hello world
 2022-10-05 19:34:28.7876|INFO|Program|Hello "Earth"
 2022-10-05 19:34:28.7876|DEBUG|Program|Holaa
+2022-10-13 17:16:03.9078|INFO|Program|Hello world
+2022-10-13 17:16:03.9275|INFO|Program|Hello "Earth"
+2022-10-13 17:16:03.9275|DEBUG|Program|Holaa

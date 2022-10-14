@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\bin\Debug\net6.0\putno3.exe
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\bin\Debug\net6.0\putno3.deps.json
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\bin\Debug\net6.0\putno3.runtimeconfig.json
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\bin\Debug\net6.0\putno3.dll
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\bin\Debug\net6.0\putno3.pdb
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.dll
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\refint\putno3.dll
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.pdb
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\putno3.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Escritorio\Tps-Taller2\tl2-tp2-2022-emmanuelbilkis\putno3\obj\Debug\net6.0\ref\putno3.dll
